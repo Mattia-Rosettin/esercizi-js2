@@ -5,8 +5,8 @@ parole = [patata, arancia, pesce,
           let parole2 = [];
 
 for (i = 0; i < parole.length; i++) {
-    if(parole[i].length)            
+    if(parole[i].length)
 
           }
 
-          console.log(parole2);
+         console.log(parole2);
